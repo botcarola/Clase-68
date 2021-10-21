@@ -1,0 +1,27 @@
+.barra{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.contenedor{
+    border: 1px solid black;
+    width: 50%;
+}
+
+.categorias{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.lista{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.columnas{
+    display: flex;
+    justify-content: space-between;
+}
